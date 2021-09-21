@@ -1,0 +1,31 @@
+body{
+    background-color: indianred;
+}
+
+
+h1{
+    font-size: 30px;
+    color: lavender;
+}
+
+div{
+    background-color: lavender;
+}
+
+#u1{
+    height: 50px;
+}
+
+#u2{
+    width: 50%;
+    height: 50px;
+}
+
+#u3{
+    width: 50vw;
+    height: 50px;
+}
+
+p{
+    font-size: 24px;
+}

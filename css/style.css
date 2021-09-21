@@ -1,0 +1,81 @@
+div{
+    height: 50px;
+}
+
+section{
+    margin: 20px;
+}
+
+#nombre1{
+    background-color: red;
+}
+
+#nombre2{
+    background-color: green;
+}
+
+#nombre3{
+    background-color: blue;
+}
+
+
+#rgb1{
+    background-color: rgb(255, 255, 255);
+}
+
+#rgb2{
+    background-color: rgb(0, 0, 0);
+}
+
+#rgb3{
+    background-color: rgb(255, 0, 0);
+}
+
+#rgb4{
+    background-color: rgb(0, 255, 0);
+}
+
+#rgb5{
+    background-color: rgb(0, 0, 255);
+}
+
+#hex1{
+    background-color: #ffffff;
+}
+
+#hex2{
+    background-color: #000000;
+}
+
+#hex3{
+    background-color: #ff0000;
+}
+
+#hex4{
+    background-color: #00ff00;
+}
+
+#hex5{
+    background-color: #0000ff;
+}
+
+
+#hsl1{
+    background-color: hsl(259, 0%, 0%);
+}
+
+#hsl2{
+    background-color: hsl(259, 0%, 100%);
+}
+
+#hsl3{
+    background-color: hsl(0, 98%, 50%);
+}
+
+#hsl4{
+    background-color: hsl(120, 100%, 50%);
+}
+
+#hsl5{
+    background-color: hsl(240, 100%, 50%);
+}
